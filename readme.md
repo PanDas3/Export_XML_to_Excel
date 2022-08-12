@@ -1,8 +1,9 @@
 # Project Name
 Simple script
-* XMLtoExcel - version 1.1.2
+* XMLtoExcel - version 1.1.5
 
 Project Date: Dec 2021
+Update: Aug 2022
 
 
 ## Additional infromation
@@ -16,13 +17,13 @@ Project Date: Dec 2021
 The program has:
 - Looking for and export params to Excel
 - Formating excel table
+- Show differences between enviroments
 
 
 ## Technologies Used
 - Python - version 3.9
 - Pandas - version 1.2.2
 - XSLXWriter - version 3.0.2
-- XML Tree - version ?
 
 <!--
 ## Features
